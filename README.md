@@ -1,5 +1,5 @@
 <h2 align="center">Hi <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"> I'm Jackeline Akemi.</h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
+<img align="right" alt="GIF" src="https://pbs.twimg.com/media/DtLfZEjWoAE8gfB.jpg" width="350"/>
 
 <h3>I'm a Full Stack Developer 🙋🏻‍💻</h3>
 
