@@ -17,6 +17,10 @@
 
 <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=jackakemi&show_icons=true&hide_border=true&theme=radical" width="30%" alt="Jackeline's Top Languages">
 
+<a href="https://github.com/jackakemi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jackakemi1&theme=radical&layout=compact&exclude_lang=java+r" />
+</a>
+
 <h3>Connect Me</h3>
 
 <p>  
