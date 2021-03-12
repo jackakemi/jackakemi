@@ -20,7 +20,7 @@
 </p>
 
 
-<h3>Connect Me</h3>
+<h3>Contact Me</h3>
 
 <p>  
 &nbsp; <a href="https://www.instagram.com/jacke.akemi/?hl=pt-br" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="70" /></a>  
