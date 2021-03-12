@@ -1,11 +1,11 @@
-<h2 align="center">Hi <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"> I'm Jackeline Akemi.</h2>
+<h2 align="center">Hi <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"> I'm Jackeline Akemi</h2>
 <img align="right" alt="GIF" src="https://i.imgur.com/NsUVK3Z.png" width="350"/>
 
 <h3>I'm a Full Stack Developer 🙋🏻‍💻</h3>
 
 - 🎓 &nbsp; I'm graduated in Tourism technician and graduated in Logistic.
 - 🚀 &nbsp; I’m currently learning programming, exploring new technologies and developing web solutions from back-end to front-end.
-- 🌱 &nbsp; Enthusiast in Artificial Intelligence (Chatbot).
+- 🌱 &nbsp; Enthusiast in Artificial Intelligence.
 - 📷 &nbsp; I love photography and traveling.
 
 <h3>🛠 Tech Stack</h3>
