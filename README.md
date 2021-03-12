@@ -17,6 +17,10 @@
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jackakemi&theme=radical&layout=compact&exclude_lang=java+r" />
 
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jackakemi&show_icons=true&locale=en&layout=compact&theme=radical"/>
+</p>
+
 
 <h3>Connect Me</h3>
 
